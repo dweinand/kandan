@@ -74,3 +74,6 @@ group :development, :test do
   gem 'database_cleaner'
   gem 'jasmine'
 end
+
+# JS runtime
+gem 'therubyracer'
