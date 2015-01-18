@@ -13,6 +13,10 @@ gem 'pg'
 gem 'devise'
 gem 'cancan'
 
+# Support omniauth
+gem 'omniauth'
+gem 'omniauth-krb5'
+
 # Server/transport gems
 gem 'thin'
 gem 'faye'
